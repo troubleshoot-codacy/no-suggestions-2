@@ -18,6 +18,9 @@ function printHello(): void {
   console.log('Hello!');
 }
 
+const helloDuplication = () => {
+  console.log('evil things happening')
+}
 
 function multiply(a: number, b: number) {
   return a * b;
