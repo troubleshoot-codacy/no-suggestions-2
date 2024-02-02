@@ -1,23 +1,7 @@
 const helloDuplication = () => {
-  console.log('evil things happening')
-}
+  console.log("evil things happening");
+};
 
 const creatingACommitDup = () => {
-  return 'this is a dup'
-}
-
-const creatingACommitDup = () => {
-  return 'this is a dup'
-}
-
-const creatingACommitDup = () => {
-  return 'this is a dup'
-}
-
-const creatingACommitDup = () => {
-  return 'this is a dup'
-}
-
-const creatingACommitDup = () => {
-  return 'this is a dup'
-}
+  return "this is a dup";
+};
